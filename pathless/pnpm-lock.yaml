@@ -1,0 +1,22 @@
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+importers:
+
+  .:
+    dependencies:
+      pathless:
+        specifier: ^0.0.5
+        version: 0.0.5
+
+packages:
+
+  pathless@0.0.5:
+    resolution: {integrity: sha512-4zDinAqgSJ2bc1zic+rqTc3uAbujqNABxPvdBdWPCNcsPno3ZizagAnEiom03zejKKMgn5UX4Sl0cSB1Kc46GQ==}
+
+snapshots:
+
+  pathless@0.0.5: {}

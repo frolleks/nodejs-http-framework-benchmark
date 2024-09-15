@@ -1,0 +1,10 @@
+{
+  "name": "pathless",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "pathless": "^0.0.5"
+  }
+}
