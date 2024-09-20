@@ -5,6 +5,6 @@
     "start": "node ."
   },
   "dependencies": {
-    "pathless": "^0.0.5"
+    "pathless": "^0.1.0"
   }
 }

@@ -6,7 +6,7 @@
     "start": "node ."
   },
   "dependencies": {
-    "@hono/node-server": "^1.12.2",
-    "hono": "^4.6.1"
+    "@hono/node-server": "^1.13.0",
+    "hono": "^4.6.2"
   }
 }
